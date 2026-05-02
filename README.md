@@ -83,9 +83,7 @@ Built interactive dashboard including:
 - Monitor high-risk applicants to reduce bad loans.
 - Improve lending strategy using applicant behavior insights.
 
-## Dashboard Preview
 
-![Loan Risk Dashboard](Screenshot 2026-05-01 230415.png)
 
 ```
 
