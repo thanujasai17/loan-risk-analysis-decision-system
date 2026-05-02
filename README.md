@@ -85,7 +85,7 @@ Built interactive dashboard including:
 
 ## Dashboard Preview
 
-![Loan Risk Dashboard](screenshots/Screenshot 2026-05-01 230415.png)
+![Loan Risk Dashboard](Screenshot 2026-05-01 230415.png)
 
 ```
 
