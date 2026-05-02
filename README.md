@@ -84,17 +84,10 @@ Built interactive dashboard including:
 - Improve lending strategy using applicant behavior insights.
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
 
-## Project Folder Structure
-```text
-loan-risk-analysis-decision-system/
-│── dataset/
-│── sql/
-│── excel/
-│── powerbi/
-│── screenshots/
-│── README.md
+![Loan Risk Dashboard](screenshots/Screenshot%202026-05-01%20230112.png)
+
+
 ```
 
 ## Conclusion
