@@ -54,13 +54,8 @@ The dataset contains 614 loan applications with attributes such as:
 - Monitor high-risk applicants to reduce bad loans.
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
 
-## Project Files
-- dataset/train_u6lujuX_CVtuZ9i.csv
-- sql/Bank_Loan_SQL_Analysis.sql
-- excel/Loan_Analysis.xlsx
-- powerbi/Loan_Risk_Analysis_Decision_System.pbix
+![Loan Risk Dashboard](screenshots/Screenshot%202026-05-01%20230112.png)
 
 ## Conclusion
 This project demonstrates how banking data can be transformed into actionable business insights for loan approval and risk management.
